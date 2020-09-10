@@ -21,10 +21,12 @@ To gain experience and knowledge in web development and acquire necessary skills
 
 ## Code examples
 
-    if(isAwesome){
-    return true;
-    }
-    
+```
+if(isAwesome){
+return true;
+}
+````
+
 ## Education
 
 * Saratov State University
