@@ -22,9 +22,8 @@ To gain experience and knowledge in web development and acquire necessary skills
 ## Code examples
 
 ```
-if(isAwesome){
+if(isAwesome)
 return true;
-}
 ````
 
 ## Education
